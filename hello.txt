@@ -1,1 +1,3 @@
 buat file hello.txt
+
+Oleh sebab itu

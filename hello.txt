@@ -1,3 +1,5 @@
 buat file hello.txt
 
 Oleh sebab itu
+
+Maka dari itu
